@@ -1,0 +1,31 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body{
+	display: flex;
+	align-items: center;
+	font-family: sans-serif;
+}
+
+#count, #timer{
+	font-size: 3em;
+}
+.bg1{
+	background: red;
+}
+.bg2{
+	background: yellow;
+}
+.bg3{
+	background: blue;
+}
+
+main{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+img{
+	max-width: 100%
+}
